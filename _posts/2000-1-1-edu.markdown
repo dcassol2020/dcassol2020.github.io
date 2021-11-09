@@ -2,14 +2,15 @@
 layout: default
 img: phd.jpg
 category: Education
-title: PhD in Genetics
-description: 2012-2016
+title: PhD Entomology
+description: 2016-2021
 ---
 
-* __2012 - 2016__
-* University of California
-* Thesis Title
-* Description
-* Advisor: Dr. PI Name
+* __2016 - 2021__
+* University of California, Riverside
+* Thesis Tessa's Title
+* Description ....
+* Advisor: Dr. Kerry Mauck! :) 
 * Scholarship from: NSF
+* She is from R-Ladies Riverside
 
