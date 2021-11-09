@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.MyName.com
-title: My Name
-email: email@gmail.com
-author: MYNAME
-description: "MyName's Personal Page"
+url: https://dcassol2020.github.io/
+title: Dani Cassol
+email: danicassol@gmail.com
+author: Dani Cassol
+description: "Cassol's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,17 +26,17 @@ plugins:
 social:
   - icon: github
     title: github
-    url: https://github.com/NyName 
+    url: https://github.com/dcassol 
   - icon: envelope-o
     title: email
-    url: mailto:NyName@gmail.com
+    url: mailto:danicassol@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/NyName/
+    url: https://www.linkedin.com/in/danicassol/
 #  - icon: file-pdf-o
 #    title: CV
 #    url: img/MyCV.pdf
-  - icon: twitter
-    title: twitter
-    url: https://twitter.com/MyName
+#  - icon: twitter
+#    title: twitter
+#    url: https://twitter.com/dcassol
 
